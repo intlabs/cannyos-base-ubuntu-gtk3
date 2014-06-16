@@ -31,7 +31,7 @@ curl https://raw.githubusercontent.com/intlabs/cannyos-base-ubuntu-gtk3/master/C
 #     *                                                   *
 #     *****************************************************
 echo "*                                                   *"
-echo "*         Ubuntu docker container builder           *"
+echo "*    Ubuntu docker containter with gtk3 builder     *"
 echo "*                                                   *"
 echo "*****************************************************"
 echo ""

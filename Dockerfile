@@ -40,9 +40,8 @@ RUN apt-get update
 RUN apt-get upgrade -y
 RUN apt-get install broadwayd -y
 
-#Install gedit
-#RUN apt-get install -y gedit
-
+# Make dir for dbus
+RUN mkdir -p /var/run/dbus
 
 #****************************************************
 #                                                   *
